@@ -1,4 +1,6 @@
 # TextScroller
+Art created by my amazing friend Tom
+
 Simple Python script I wrote to turn my profile picture on discord into a gif with scrolling text
 
 It can be operated on the command line with "python autop.py "This is example text"
